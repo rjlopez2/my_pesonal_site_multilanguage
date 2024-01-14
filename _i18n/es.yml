@@ -8,24 +8,24 @@ main:
     Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
     Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Universidad de Berna</p>
+    <p>Departamento de Fisiología</p>
+    <p>Suiza</p>
   subtitle: ""
 titles:
-  about: about
+  about: home
   blog: blog
   cv: cv
-  latest_posts: latest posts
+  latest_posts: ultimos posts
   news: news
   profiles: people
-  projects: projects
-  publications: publications
-  repositories: repositories
-  selected_publications: selected publications
-  teaching: teaching
+  projects: proyectos
+  publications: publicaciones
+  repositories: repositorios
+  selected_publications: publicaciones seleccionadas
+  teaching: enseñanza
   submenus: submenus
-  unk: page not found
+  unk: pagina no encontrada
 descriptions:
   about: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
   archive-category: an archive of posts in this category
@@ -48,31 +48,31 @@ blog:
     title: Enjoy Reading This Article?
 months:
   long:
-    january: January
-    february: February
-    march: March
-    april: April
-    may: May
-    june: June
-    july: July
-    august: August
-    september: September
-    october: October
-    november: November
-    december: December
+    january: Enero
+    february: Febrero
+    march: Marzo
+    april: Abril
+    may: Mayo
+    june: Junio
+    july: Julio
+    august: Agosto
+    september: Septiembre
+    october: Octuber
+    november: Noviember
+    december: Diciember
   short:
-    january: Jan
+    january: Ene
     february: Feb
     march: Mar
-    april: Apr
+    april: Abr
     may: May
     june: Jun
     july: Jul
-    august: Aug
+    august: Ago
     september: Sep
     october: Oct
     november: Nov
-    december: Dec
+    december: Dic
 news:
   empty: No news so far...
   titles:
@@ -99,40 +99,40 @@ projects:
     project5: a project with a background image
     project6: a project with no image
   categories:
-    fun: fun
-    work: work
+    fun: diversion
+    work: trabajo
 repositories:
   users: GitHub Users
   repos: GitHub Repositories
 cv:
-  address: Address
+  address: Dirección
   area: Area
   awarder: Awarder
   awards: Awards
-  basics: General information
-  certificates: Certificates
-  city: City
+  basics: Información General
+  certificates: Certificados
+  city: Ciudad
   countryCode: Country code
-  courses: Courses
-  date: Date
-  education: Education
-  email: Email
+  courses: Cursos
+  date: Fecha
+  education: Educación
+  email: correo electrónico
   endDate: End date
   fluency: Fluency
   highlights: Highlights
   image: Image
   institution: Institution
-  interests: Interests
+  interests: Intereses
   issuer: Issuer
-  keywords: Keywords
+  keywords: palabras clave
   label: Label
-  language: Language
-  languages: Languages
+  language: Idioma
+  languages: Idiomas
   level: Level
-  location: Location
-  name: Name
+  location: Ubicación
+  name: Nombre
   network: Network
-  organization: Organization
+  organization: Organización
   phone: Phone
   position: Position
   postalCode: Postal Code
@@ -142,16 +142,16 @@ cv:
   publisher: Publisher
   reference: Reference
   references: References
-  region: Region
+  region: Región
   releaseDate: Release date
-  score: Score
-  skills: Skills
-  startDate: Start date
-  studyType: Study type
-  summary: Summary
-  table_of_contents: Table of Contents
-  title: Title
+  score: Calificación
+  skills: Habilidades
+  startDate: Fecha de Inicio
+  studyType: Tipo de Estudio
+  summary: Resumen
+  table_of_contents: Table de Contenido
+  title: Título
   url: Url
-  username: Username
+  username: Nombre de Usuario
   volunteer: Volunteer
   work: Work

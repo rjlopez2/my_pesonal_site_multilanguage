@@ -2,7 +2,7 @@ not_found:
   message: Usted será redirigido a la página principal en 3 segundos. Si no es redirigido, regrese a la
   main_page: página principal
 main:
-  contact_note: You can even add a little note about which of these is the best way to reach you.
+  contact_note: Contactame via email or a traves de tu canal social preferido.
   footer_text: > # the ">" symbol means to ignore newlines until "titles:"
     Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
     Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

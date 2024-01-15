@@ -5,8 +5,8 @@ main:
   contact_note: Let's get in touch! Use the e-mail icon to contact me or any of your preferred social channel.
   footer_text: > # the ">" symbol means to ignore newlines until "titles:"
     Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
-    Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-    Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
   more_info: >
     <p>Bern University</p>
     <p>Department of Physiology</p>

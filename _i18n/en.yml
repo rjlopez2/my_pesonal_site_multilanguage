@@ -34,14 +34,14 @@ descriptions:
   blog: a simple whitespace theme for academics
   cv: "" #This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
   profiles: Members of the research group or lab.
-  projects: A growing collection of your cool projects.
+  projects: List of my most relevants projects.
   publications: ""
   repositories: "Some repos and GitHub stats."
   teaching: Materials for courses you taught. Replace this text with your description.
   unk: Looks like there has been a mistake. Nothing exists here.
 blog:
-  description: a simple whitespace theme for academics
-  name: al-folio blog in english # blog_name will be displayed in your blog page
+  description: Thanks for stopping by! #I place here some thoughts I found worth to share (or remmember). Hope you also find it usefull.
+  name: Mi place for randomness # blog_name will be displayed in your blog page
   nav_title: blog # your blog must have a title for it to be displayed in the nav bar
   related_posts:
     description: "Here are some more articles you might like to read next:"

@@ -8,7 +8,7 @@
 #     - name: Languages
 #       value: English, German
 
-- title: Education
+- title: Educación
   type: time_table
   contents:
     - title: PhD
@@ -28,7 +28,7 @@
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Experiencia
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
@@ -61,7 +61,7 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Proyectos de Código Abeirto
   type: time_table
   contents:
     - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
@@ -72,7 +72,7 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Premios y Honores
   type: time_table
   contents:
     - year: 1921
@@ -83,7 +83,7 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Intereses Academicos
   type: nested_list
   contents:
     - title: Topic 1.
@@ -95,7 +95,7 @@
         - Description 1.
         - Description 2.
 
-- title: Other Interests
+- title: Otros Interests
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

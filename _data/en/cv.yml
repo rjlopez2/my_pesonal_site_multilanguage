@@ -8,7 +8,6 @@
 #     - name: Languages
 #       value: English, German
 
-
 - title: Experience
   type: time_table
   contents:
@@ -54,7 +53,6 @@
             - Confocal microscopy.
             - Biochemestry and molecular biology.
 
-            
 - title: Education
   type: time_table
   contents:
@@ -73,8 +71,8 @@
       description:
         - International PhD Program In Biomedicine and Cell Biology.
         - title: "Thesis:"
-          contents: 
-            -  Study of calcium sparks in skeletal and smooth muscle cells in normal and pathological conditions.
+          contents:
+            - Study of calcium sparks in skeletal and smooth muscle cells in normal and pathological conditions.
 
     - title: Bachelor in Biology
       institution: University of Carabobo, Valencia, Venezuela
@@ -84,7 +82,6 @@
         - title: "Thesis:"
           contents:
             - Efecto del ácido 3-O-piranosil-ursólico extraído de hojas de Aspidosperma fendleri y del ácido pomólico proveniente de hojas de Licania pittieri sobre cardiomiocitos de rata.
-
 
 - title: Open Source Contributions
   type: time_table
@@ -102,13 +99,12 @@
       year: 2020-2022
       description: A R package containing methods for analysis of calcium waves.
 
-
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2015
-      items: 
-        - Gordon Research Conferences Travel Grant 
+      items:
+        - Gordon Research Conferences Travel Grant
 
 # - title: Academic Interests
 #   type: nested_list
